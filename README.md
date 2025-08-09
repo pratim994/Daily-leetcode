@@ -33,7 +33,7 @@ Here I upload the Leetcode problems I solve every day. Each problem includes:
 1. Clone the repo:
    ```bash
    git clone https://github.com/pratim994/Daily-leetcode.git
-g++ lc.cpp -o lc && ./lc
+g++ prog_name.cpp -o lc && ./prog_name
 ✅ Daily Update Log
 I will push one new problem every day. Each submission includes:
 
