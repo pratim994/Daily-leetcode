@@ -1,6 +1,6 @@
 class Solution {
 public:
-  constexpr static  int maximumEnergy(vector<int>& e, int k) {
+  constexpr int maximumEnergy(vector<int>& e, int k) {
     int n = e.size();
     vector<int> dp(n+1);
     int ans  = INT_MIN;
