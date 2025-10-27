@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int numberOfBeams(vector<string>& bank) {
+  constexpr  int numberOfBeams(vector<string>& bank) {
        int ans = 0, prev =0;
        for(auto& row : bank){
         int device = count(row.begin(), row.end(), '1');
