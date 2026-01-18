@@ -1,25 +1,25 @@
 # Daily Leetcode
 
-Welcome to my **Daily Leetcode** repository! Ã°ÂÂÂ
+Welcome to my **Daily Leetcode** repository! ÃÂ°ÃÂÃÂÃÂ
 
 Here I upload the Leetcode problems I solve every day. Each problem includes:
-- Ã¢ÂÂ Full C++ code with driver and header files  
-- Ã¢ÂÂÃ¯Â¸Â Driver code to test the solution  
-- Ã°ÂÂÂ¼Ã¯Â¸Â Screenshot showing successful code execution
+- ÃÂ¢ÃÂÃÂ Full C++ code with driver and header files  
+- ÃÂ¢ÃÂÃÂÃÂ¯ÃÂ¸ÃÂ Driver code to test the solution  
+- ÃÂ°ÃÂÃÂÃÂ¼ÃÂ¯ÃÂ¸ÃÂ Screenshot showing successful code execution
 
 ---
 
-## Ã°ÂÂÂ Repository Structure
+## ÃÂ°ÃÂÃÂÃÂ Repository Structure
 
-Ã°ÂÂÂ root/
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ lc.cpp # Solution code
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ WhatsApp Image ... .jpg # Screenshot of the code output
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md # This file
+ÃÂ°ÃÂÃÂÃÂ root/
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ lc.cpp # Solution code
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ WhatsApp Image ... .jpg # Screenshot of the code output
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ README.md # This file
 
 ---
 
-## Ã°ÂÂÂ Goals
+## ÃÂ°ÃÂÃÂÃÂ Goals
 
 - Stay consistent with daily problem solving  
 - Write clean and structured code  
@@ -28,21 +28,21 @@ Here I upload the Leetcode problems I solve every day. Each problem includes:
 
 ---
 
-## Ã°ÂÂÂ Ã¯Â¸Â How to Run
+## ÃÂ°ÃÂÃÂÃÂ ÃÂ¯ÃÂ¸ÃÂ How to Run
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/pratim994/Daily-leetcode.git
 g++ prog_name.cpp -o lc && ./prog_name
-Ã¢ÂÂ Daily Update Log
+ÃÂ¢ÃÂÃÂ Daily Update Log
 I will push one new problem every day. Each submission includes:
 
 The .cpp file for the solution
 
 A screenshot of the output for proof of correctness
 
-Ã¢Â­Â Contributions
-Not accepting contributions right now Ã¢ÂÂ this is a personal daily log.
+ÃÂ¢ÃÂ­ÃÂ Contributions
+Not accepting contributions right now ÃÂ¢ÃÂÃÂ this is a personal daily log.
 Feel free to watch or star the repo to follow along!
 
 
@@ -52,6 +52,7 @@ Feel free to watch or star the repo to follow along!
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1311-largest-magic-square](https://github.com/pratim994/Daily-leetcode/tree/master/1311-largest-magic-square) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratim994/Daily-leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Math
 |  |
@@ -70,4 +71,9 @@ Feel free to watch or star the repo to follow along!
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1311-largest-magic-square](https://github.com/pratim994/Daily-leetcode/tree/master/1311-largest-magic-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1311-largest-magic-square](https://github.com/pratim994/Daily-leetcode/tree/master/1311-largest-magic-square) |
 <!---LeetCode Topics End-->
