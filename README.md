@@ -1,25 +1,25 @@
 # Daily Leetcode
 
-Welcome to my **Daily Leetcode** repository! ð
+Welcome to my **Daily Leetcode** repository! Ã°ÂÂÂ
 
 Here I upload the Leetcode problems I solve every day. Each problem includes:
-- â Full C++ code with driver and header files  
-- âï¸ Driver code to test the solution  
-- ð¼ï¸ Screenshot showing successful code execution
+- Ã¢ÂÂ Full C++ code with driver and header files  
+- Ã¢ÂÂÃ¯Â¸Â Driver code to test the solution  
+- Ã°ÂÂÂ¼Ã¯Â¸Â Screenshot showing successful code execution
 
 ---
 
-## ð Repository Structure
+## Ã°ÂÂÂ Repository Structure
 
-ð root/
-â
-âââ lc.cpp # Solution code
-âââ WhatsApp Image ... .jpg # Screenshot of the code output
-âââ README.md # This file
+Ã°ÂÂÂ root/
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ lc.cpp # Solution code
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ WhatsApp Image ... .jpg # Screenshot of the code output
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md # This file
 
 ---
 
-## ð Goals
+## Ã°ÂÂÂ Goals
 
 - Stay consistent with daily problem solving  
 - Write clean and structured code  
@@ -28,21 +28,21 @@ Here I upload the Leetcode problems I solve every day. Each problem includes:
 
 ---
 
-## ð ï¸ How to Run
+## Ã°ÂÂÂ Ã¯Â¸Â How to Run
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/pratim994/Daily-leetcode.git
 g++ prog_name.cpp -o lc && ./prog_name
-â Daily Update Log
+Ã¢ÂÂ Daily Update Log
 I will push one new problem every day. Each submission includes:
 
 The .cpp file for the solution
 
 A screenshot of the output for proof of correctness
 
-â­ Contributions
-Not accepting contributions right now â this is a personal daily log.
+Ã¢Â­Â Contributions
+Not accepting contributions right now Ã¢ÂÂ this is a personal daily log.
 Feel free to watch or star the repo to follow along!
 
 
@@ -51,13 +51,23 @@ Feel free to watch or star the repo to follow along!
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratim994/Daily-leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Math
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratim994/Daily-leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
 | ------- |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratim994/Daily-leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+## Hash Table
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/pratim994/Daily-leetcode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
