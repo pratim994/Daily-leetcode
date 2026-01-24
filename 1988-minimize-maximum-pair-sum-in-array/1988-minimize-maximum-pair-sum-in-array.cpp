@@ -1,6 +1,6 @@
 class Solution {
 public:
-   int minPairSum(vector<int>& nums) {
+  constexpr int minPairSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int n = nums.size(); int x = 0;
         vector<int> pairs;
@@ -12,6 +12,12 @@ public:
     }
 };
 
-//I wanna decifer the logic before I code first 
-//sort the array 
-// add largest with smallest and 2nd largest with 2nd smallest, so on and so forth !
+auto init = []()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
+
+
