@@ -1,17 +1,14 @@
 class Solution {
 public:
-  constexpr int minPairSum(vector<int>& nums) {
+    int minPairSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int n = nums.size(); int x = 0;
-        vector<int> pairs;
-        for(int i = 0, j = n-1; i <=n -1 && j >= 1; i++ , j--){
-            x = nums[i] + nums[j];
-            pairs.push_back(x);
-        }
-        return *max_element(pairs.begin(), pairs.end());   
+        int maxSum = 0;
+        for (int i = 0; i < nums.size() / 2; i++) {
+            maxSum = max(maxSum, nums[i] + nums[nums.size() - 1 - i]);
+        } 
+        return maxSum;
     }
 };
-
 auto init = []()
 {
     ios::sync_with_stdio(0);
