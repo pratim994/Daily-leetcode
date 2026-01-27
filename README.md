@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
