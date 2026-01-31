@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/pratim994/Daily-leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
