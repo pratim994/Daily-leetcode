@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
