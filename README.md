@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -93,4 +94,9 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pratim994/Daily-leetcode/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
