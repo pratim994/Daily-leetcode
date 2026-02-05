@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/pratim994/Daily-leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
