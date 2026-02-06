@@ -21,6 +21,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
