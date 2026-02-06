@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -104,4 +105,8 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
