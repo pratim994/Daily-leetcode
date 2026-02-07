@@ -11,6 +11,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
 ## Graph Theory
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
