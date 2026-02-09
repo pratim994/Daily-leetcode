@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,12 +121,23 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
