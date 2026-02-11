@@ -6,6 +6,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -42,11 +43,13 @@
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
