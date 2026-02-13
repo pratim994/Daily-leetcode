@@ -8,6 +8,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
