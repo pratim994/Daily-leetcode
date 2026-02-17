@@ -28,6 +28,7 @@
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
