@@ -29,6 +29,7 @@
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/pratim994/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
