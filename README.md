@@ -31,6 +31,7 @@
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pratim994/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0007-reverse-integer](https://github.com/pratim994/Daily-leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
