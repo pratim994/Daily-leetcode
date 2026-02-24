@@ -49,6 +49,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratim994/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pratim994/Daily-leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/pratim994/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -120,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pratim994/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 ## Enumeration
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pratim994/Daily-leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/pratim994/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
