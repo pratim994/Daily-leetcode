@@ -37,6 +37,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -209,6 +211,7 @@
 | [0054-spiral-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Merge Sort
 |  |
 | ------- |
