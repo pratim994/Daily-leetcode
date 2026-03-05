@@ -7,6 +7,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
+| [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -254,4 +255,16 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
