@@ -68,6 +68,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/pratim994/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0815-champagne-tower](https://github.com/pratim994/Daily-leetcode/tree/master/0815-champagne-tower) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
