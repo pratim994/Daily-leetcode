@@ -136,6 +136,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 ## Matrix
@@ -185,6 +186,7 @@
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -198,6 +200,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
