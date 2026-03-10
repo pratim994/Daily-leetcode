@@ -197,6 +197,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -204,6 +205,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -211,6 +213,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
@@ -221,6 +224,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
