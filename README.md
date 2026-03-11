@@ -46,6 +46,7 @@
 | [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pratim994/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1054-complement-of-base-10-integer](https://github.com/pratim994/Daily-leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
