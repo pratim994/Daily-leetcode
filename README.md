@@ -86,6 +86,7 @@
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Database
 |  |
@@ -178,6 +181,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -224,6 +228,7 @@
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
