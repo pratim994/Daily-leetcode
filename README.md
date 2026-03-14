@@ -147,6 +147,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/pratim994/Daily-leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/pratim994/Daily-leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Breadth-First Search
 |  |
