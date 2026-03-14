@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratim994/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pratim994/Daily-leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/pratim994/Daily-leetcode/tree/master/0048-rotate-image) |
