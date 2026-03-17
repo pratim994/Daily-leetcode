@@ -72,6 +72,7 @@
 | [0054-spiral-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0137-single-number-ii) |
@@ -205,6 +206,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
