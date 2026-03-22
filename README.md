@@ -81,6 +81,7 @@
 | [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/pratim994/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0815-champagne-tower](https://github.com/pratim994/Daily-leetcode/tree/master/0815-champagne-tower) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
+| [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
