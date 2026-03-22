@@ -87,6 +87,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -178,6 +179,7 @@
 | [0059-spiral-matrix-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
