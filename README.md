@@ -224,6 +224,7 @@
 | [0031-next-permutation](https://github.com/pratim994/Daily-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
+| [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
 |  |
@@ -342,6 +343,7 @@
 | ------- |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
+| [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
