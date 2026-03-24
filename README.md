@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
+| [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/pratim994/Daily-leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -144,6 +145,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -151,6 +153,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -178,6 +181,7 @@
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
+| [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
@@ -253,6 +257,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
