@@ -93,6 +93,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
+| [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -189,6 +190,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/pratim994/Daily-leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
