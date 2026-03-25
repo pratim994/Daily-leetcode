@@ -76,6 +76,7 @@
 | [0059-spiral-matrix-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratim994/Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0137-single-number-ii) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratim994/Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
