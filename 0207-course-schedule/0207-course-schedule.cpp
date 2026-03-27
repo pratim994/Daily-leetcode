@@ -3,7 +3,7 @@
 class Solution {
 public:
 
-  constexpr  bool topologicalSort( unordered_map<int , vector<int>>& adj, int n, vector<int>& visited)
+  constexpr static inline bool topologicalSort( unordered_map<int , vector<int>>& adj, int n, vector<int>& visited)
         {
                 queue<int> q;
 
@@ -40,7 +40,7 @@ public:
         return count == n ?  true : false;
         }
 
-  constexpr  bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+  constexpr static inline bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
         if(prerequisites.size() == 0) return true;
 
