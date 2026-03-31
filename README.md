@@ -38,6 +38,7 @@
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pratim994/Daily-leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 ## Bit Manipulation
@@ -296,6 +297,7 @@
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pratim994/Daily-leetcode/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
