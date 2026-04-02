@@ -110,6 +110,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/pratim994/Daily-leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
@@ -141,6 +142,7 @@
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/pratim994/Daily-leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/pratim994/Daily-leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
 ## Graph Theory
 |  |
@@ -213,6 +215,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/pratim994/Daily-leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
