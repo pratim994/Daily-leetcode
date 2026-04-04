@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isValidSudoku(vector<vector<char>>& board) {
+  constexpr  bool isValidSudoku(vector<vector<char>>& board) {
         
      unordered_set<string> st;
 
@@ -29,3 +29,11 @@ public:
         return true;
     }
 };
+
+
+auto init = [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
