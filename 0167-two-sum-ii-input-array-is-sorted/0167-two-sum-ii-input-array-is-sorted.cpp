@@ -1,6 +1,8 @@
+#pragma GCC optimize("O3")
+
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& numbers, int target) {
+   constexpr vector<int> twoSum(vector<int>& numbers, int target) {
         
         const int n =  numbers.size();
 
@@ -27,3 +29,11 @@ public:
     }
 
 };
+
+auto init = [](){
+    ios::sync_with_stdio(0);
+
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
