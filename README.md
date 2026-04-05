@@ -89,6 +89,7 @@
 | [0136-single-number](https://github.com/pratim994/Daily-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratim994/Daily-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -262,6 +264,7 @@
 | [0031-next-permutation](https://github.com/pratim994/Daily-leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
