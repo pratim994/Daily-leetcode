@@ -107,6 +107,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/pratim994/Daily-leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
@@ -202,6 +203,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -283,6 +285,7 @@
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
 |  |
