@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int furthestDistanceFromOrigin(string moves) {
+  constexpr int furthestDistanceFromOrigin(string moves) {
 
         int cntD = 0 , cntL = 0 , cntR =0;
 
@@ -19,3 +19,11 @@ public:
 };
 
 // return cnt of '_' and abs(L-R)
+
+
+auto init= [](){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
