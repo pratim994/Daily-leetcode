@@ -126,6 +126,7 @@
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/pratim994/Daily-leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratim994/Daily-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3956-trionic-array-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3956-trionic-array-ii) |
@@ -270,6 +271,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratim994/Daily-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
