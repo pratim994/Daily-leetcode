@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/pratim994/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
+| [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -461,5 +462,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
