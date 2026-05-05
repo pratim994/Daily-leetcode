@@ -287,6 +287,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratim994/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pratim994/Daily-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pratim994/Daily-leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/pratim994/Daily-leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -423,6 +424,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/pratim994/Daily-leetcode/tree/master/0061-rotate-list) |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
