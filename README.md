@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/pratim994/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
+| [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -106,6 +107,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
+| [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/pratim994/Daily-leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -228,6 +230,7 @@
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
+| [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
 |  |
