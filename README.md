@@ -15,6 +15,7 @@
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
+| [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -116,6 +117,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pratim994/Daily-leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pratim994/Daily-leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -212,6 +214,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -298,6 +301,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Stack
 |  |
