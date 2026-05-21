@@ -18,6 +18,7 @@
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratim994/Daily-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -49,6 +50,7 @@
 | [3019-furthest-point-from-origin](https://github.com/pratim994/Daily-leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
@@ -131,6 +133,7 @@
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
