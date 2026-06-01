@@ -82,6 +82,7 @@
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -129,6 +130,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pratim994/Daily-leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
@@ -380,6 +382,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
