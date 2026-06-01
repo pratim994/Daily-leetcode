@@ -340,6 +340,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
@@ -349,6 +350,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
@@ -364,6 +366,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratim994/Daily-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
@@ -384,6 +387,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
