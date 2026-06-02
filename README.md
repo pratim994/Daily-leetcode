@@ -119,6 +119,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/pratim994/Daily-leetcode/tree/master/1036-rotting-oranges) |
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -259,6 +260,7 @@
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0744-network-delay-time](https://github.com/pratim994/Daily-leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pratim994/Daily-leetcode/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/pratim994/Daily-leetcode/tree/master/1036-rotting-oranges) |
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
@@ -270,6 +272,7 @@
 | [0059-spiral-matrix-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/pratim994/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/pratim994/Daily-leetcode/tree/master/1036-rotting-oranges) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
