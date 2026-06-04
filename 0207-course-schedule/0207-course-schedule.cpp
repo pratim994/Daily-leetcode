@@ -1,76 +1,66 @@
-#pragma GCC optimize (-O3, -flto, -ffast-math, -march=native, -mtune=native)
-
 class Solution {
 public:
 
-  constexpr static inline bool topologicalSort( unordered_map<int , vector<int>>& adj, int n, vector<int>& visited)
-        {
-                queue<int> q;
+bool topo_sort(unordered_map<int , vector<int>> &adj, int n , vector<int> &degree){
 
-                int count = 0;
+        queue<int> que;
 
-                for(int i = 0; i <n ; i++){
-                    if(visited[i] == 0)
-                    {
-                        count++;
-                        q.push(i);
-                    }
+        int count = 0;
 
-                }
+        for(int i = 0 ; i < n; i++){
 
-
-    while(!q.empty()){
-
-        int u = q.front();
-
-            q.pop();
-
-            for(int &v : adj[u])
-            {
-                visited[v]--;
-
-                if(visited[v] == 0){
-
-                        count++;
-
-                        q.push(v);
-                }
+            if(degree[i] == 0){
+                count++;
+                que.push(i);
             }
-    }
-        return count == n ?  true : false;
         }
 
-  constexpr static inline bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        while(!que.empty()){
 
-        if(prerequisites.size() == 0) return true;
+            int u = que.front();
 
-            vector<int> visited(numCourses, 0);
+            que.pop();
 
-            unordered_map<int , vector<int>> adj;
+            for(int &v : adj[u]){
 
-            for(auto &it  : prerequisites){
+                degree[v]--;
 
-                int u = it[0];
-
-                int v = it[1];
-
-                adj[v].push_back(u);
-
-                visited[u]++;
+                if(degree[v] == 0){
+                    count++;
+           
+                     que.push(v);
+                }
             }
 
+        }
 
-            return topologicalSort(adj, numCourses, visited);
+        if(count == n)
+            return true;
+         return false;
 
 
+}
+    bool canFinish(int numCourses, vector<vector<int>>& pre) {
+
+        unordered_map<int, vector<int>> adj;
+
+        vector<int> degree(numCourses, 0);
+
+        for(auto &vec : pre){
+
+            int a = vec[0];
+
+            int b = vec[1];
+
+                        adj[b].push_back(a);
+
+
+            degree[a]++;
+
+        }
+
+
+        return topo_sort(adj, numCourses, degree);
+         
     }
 };
-
-// kahn's algo for finding cycle / topological sort
-
-auto init = [](){
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
