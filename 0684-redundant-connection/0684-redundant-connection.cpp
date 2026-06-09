@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+
+        int n = edges.size();
+
+        vector<int> p(n);
+
+        iota(p.begin(), p.end(), 0);
+
+        function<int(int)> find = [&](int i){
+
+            return p[i] == i ? i : p[i] = find(p[i]);
+        };
+
+        for(int  i =0 ;  ;++i){
+
+            int pa = find(edges[i][0] - 1);
+
+            int pb = find(edges[i][1] - 1);
+
+            if(pb == pa){
+                return edges[i];
+            }
+
+            p[pa] = pb;
+        }
+
+    }
+};
