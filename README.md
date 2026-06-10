@@ -166,6 +166,7 @@
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -225,6 +226,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
+| [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
