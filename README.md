@@ -331,6 +331,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratim994/Daily-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -372,6 +373,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/pratim994/Daily-leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
