@@ -5,6 +5,7 @@
 #         self.next = None
 
 class Solution:
+    @lru_cache
     def hasCycle(self, head: Optional[ListNode]) -> bool:
 
         fast = head
