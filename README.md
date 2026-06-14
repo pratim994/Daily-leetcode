@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/pratim994/Daily-leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/pratim994/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/pratim994/Daily-leetcode/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/pratim994/Daily-leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pratim994/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
@@ -348,6 +349,7 @@
 | [0061-rotate-list](https://github.com/pratim994/Daily-leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/pratim994/Daily-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pratim994/Daily-leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/pratim994/Daily-leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -513,6 +515,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/pratim994/Daily-leetcode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/pratim994/Daily-leetcode/tree/master/0141-linked-list-cycle) |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/0908-middle-of-the-linked-list) |
