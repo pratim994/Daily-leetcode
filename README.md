@@ -57,6 +57,7 @@
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
 ## Merge Sort
 |  |
 | ------- |
