@@ -128,6 +128,7 @@
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1833-find-the-highest-altitude](https://github.com/pratim994/Daily-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pratim994/Daily-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/pratim994/Daily-leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -443,6 +444,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1833-find-the-highest-altitude](https://github.com/pratim994/Daily-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/pratim994/Daily-leetcode/tree/master/2001-jump-game-vii) |
 | [2714-left-and-right-sum-differences](https://github.com/pratim994/Daily-leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
