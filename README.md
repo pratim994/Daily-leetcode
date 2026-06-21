@@ -84,6 +84,7 @@
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1961-maximum-ice-cream-bars](https://github.com/pratim994/Daily-leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1968-maximum-building-height](https://github.com/pratim994/Daily-leetcode/tree/master/1968-maximum-building-height) |
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
@@ -133,6 +134,7 @@
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pratim994/Daily-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/pratim994/Daily-leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1968-maximum-building-height](https://github.com/pratim994/Daily-leetcode/tree/master/1968-maximum-building-height) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/pratim994/Daily-leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratim994/Daily-leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -334,6 +336,7 @@
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/pratim994/Daily-leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1968-maximum-building-height](https://github.com/pratim994/Daily-leetcode/tree/master/1968-maximum-building-height) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
