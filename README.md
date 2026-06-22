@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/pratim994/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/pratim994/Daily-leetcode/tree/master/0460-lfu-cache) |
+| [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
@@ -36,6 +37,7 @@
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
+| [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -464,6 +466,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3019-furthest-point-from-origin](https://github.com/pratim994/Daily-leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
