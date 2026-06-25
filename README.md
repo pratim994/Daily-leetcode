@@ -26,6 +26,7 @@
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -177,6 +178,7 @@
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
@@ -190,6 +192,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -450,6 +453,7 @@
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -464,6 +468,7 @@
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -471,6 +476,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3019-furthest-point-from-origin](https://github.com/pratim994/Daily-leetcode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -491,6 +497,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
