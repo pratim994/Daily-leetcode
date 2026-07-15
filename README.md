@@ -130,6 +130,7 @@
 | [0200-number-of-islands](https://github.com/pratim994/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pratim994/Daily-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/pratim994/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -217,6 +218,7 @@
 | [0152-maximum-product-subarray](https://github.com/pratim994/Daily-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pratim994/Daily-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
@@ -281,6 +283,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pratim994/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratim994/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/pratim994/Daily-leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
