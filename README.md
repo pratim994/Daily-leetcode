@@ -103,6 +103,7 @@
 | [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -380,12 +382,14 @@
 | [3964-number-of-zigzag-arrays-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pratim994/Daily-leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -527,6 +532,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
 | ------- |
