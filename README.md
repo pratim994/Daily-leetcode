@@ -24,6 +24,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/pratim994/Daily-leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -181,6 +182,7 @@
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/pratim994/Daily-leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -294,6 +296,7 @@
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3750-closest-equal-element-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -377,6 +380,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -389,6 +393,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -506,6 +511,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/pratim994/Daily-leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
@@ -516,6 +522,7 @@
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3019-furthest-point-from-origin](https://github.com/pratim994/Daily-leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Simulation
@@ -637,4 +644,8 @@
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
