@@ -43,6 +43,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/pratim994/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pratim994/Daily-leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -427,6 +428,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratim994/Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
@@ -475,6 +477,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -635,6 +638,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratim994/Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Topological Sort
 |  |
 | ------- |
