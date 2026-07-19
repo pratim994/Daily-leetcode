@@ -151,6 +151,7 @@
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1833-find-the-highest-altitude](https://github.com/pratim994/Daily-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pratim994/Daily-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -430,6 +431,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
 ## Tree
@@ -479,6 +481,7 @@
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/pratim994/Daily-leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/pratim994/Daily-leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -639,6 +642,7 @@
 | [0042-trapping-rain-water](https://github.com/pratim994/Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
