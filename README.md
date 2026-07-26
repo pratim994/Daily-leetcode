@@ -91,6 +91,7 @@
 | [0169-majority-element](https://github.com/pratim994/Daily-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pratim994/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
 | [1222-remove-covered-intervals](https://github.com/pratim994/Daily-leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -143,6 +144,7 @@
 | [0493-reverse-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pratim994/Daily-leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
@@ -379,6 +381,7 @@
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/pratim994/Daily-leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
