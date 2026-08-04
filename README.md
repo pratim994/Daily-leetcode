@@ -31,6 +31,7 @@
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/pratim994/Daily-leetcode/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -109,6 +110,7 @@
 | [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4107-find-missing-elements](https://github.com/pratim994/Daily-leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -207,6 +209,7 @@
 | [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/pratim994/Daily-leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/pratim994/Daily-leetcode/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/pratim994/Daily-leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
