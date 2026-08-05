@@ -270,6 +270,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3561-remove-methods-from-project](https://github.com/pratim994/Daily-leetcode/tree/master/3561-remove-methods-from-project) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/pratim994/Daily-leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -340,6 +341,7 @@
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/pratim994/Daily-leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3561-remove-methods-from-project](https://github.com/pratim994/Daily-leetcode/tree/master/3561-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/pratim994/Daily-leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/pratim994/Daily-leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pratim994/Daily-leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3561-remove-methods-from-project](https://github.com/pratim994/Daily-leetcode/tree/master/3561-remove-methods-from-project) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
