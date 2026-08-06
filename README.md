@@ -370,6 +370,7 @@
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/pratim994/Daily-leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/pratim994/Daily-leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Sliding Window
@@ -401,6 +402,7 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/pratim994/Daily-leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratim994/Daily-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
