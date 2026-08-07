@@ -65,6 +65,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
@@ -403,6 +404,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/pratim994/Daily-leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/pratim994/Daily-leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratim994/Daily-leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -415,6 +417,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/pratim994/Daily-leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -511,6 +514,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/pratim994/Daily-leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -598,6 +602,7 @@
 | [0052-n-queens-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0052-n-queens-ii) |
 | [0401-binary-watch](https://github.com/pratim994/Daily-leetcode/tree/master/0401-binary-watch) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Union-Find
 |  |
 | ------- |
