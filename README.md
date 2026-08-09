@@ -153,6 +153,7 @@
 | [0948-sort-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/pratim994/Daily-leetcode/tree/master/1036-rotting-oranges) |
 | [1222-remove-covered-intervals](https://github.com/pratim994/Daily-leetcode/tree/master/1222-remove-covered-intervals) |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/pratim994/Daily-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1447-jump-game-iv](https://github.com/pratim994/Daily-leetcode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
@@ -242,6 +243,7 @@
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/pratim994/Daily-leetcode/tree/master/0815-champagne-tower) |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -393,6 +395,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/pratim994/Daily-leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/pratim994/Daily-leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/pratim994/Daily-leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -539,6 +542,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/pratim994/Daily-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/pratim994/Daily-leetcode/tree/master/2001-jump-game-vii) |
 | [2714-left-and-right-sum-differences](https://github.com/pratim994/Daily-leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -696,13 +700,16 @@
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
