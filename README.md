@@ -21,6 +21,7 @@
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratim994/Daily-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/pratim994/Daily-leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -105,6 +106,7 @@
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pratim994/Daily-leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -184,6 +186,7 @@
 | [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pratim994/Daily-leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
