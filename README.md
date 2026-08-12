@@ -21,6 +21,7 @@
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/pratim994/Daily-leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratim994/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/pratim994/Daily-leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -185,6 +186,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pratim994/Daily-leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3031-construct-product-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratim994/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/pratim994/Daily-leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratim994/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -385,6 +387,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/pratim994/Daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2001-jump-game-vii](https://github.com/pratim994/Daily-leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pratim994/Daily-leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratim994/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/pratim994/Daily-leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Math
