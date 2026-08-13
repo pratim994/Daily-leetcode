@@ -60,6 +60,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pratim994/Daily-leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pratim994/Daily-leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/pratim994/Daily-leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pratim994/Daily-leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pratim994/Daily-leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -177,6 +178,7 @@
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pratim994/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/pratim994/Daily-leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pratim994/Daily-leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
@@ -540,6 +542,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/0493-reverse-pairs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/pratim994/Daily-leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4047-longest-balanced-subarray-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -703,6 +706,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/0493-reverse-pairs) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/pratim994/Daily-leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
 ## Minimax
 |  |
 | ------- |
