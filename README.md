@@ -197,6 +197,7 @@
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/pratim994/Daily-leetcode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratim994/Daily-leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pratim994/Daily-leetcode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/pratim994/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3435-block-placement-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3435-block-placement-queries) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pratim994/Daily-leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -587,6 +588,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/pratim994/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2846-robot-collisions](https://github.com/pratim994/Daily-leetcode/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/pratim994/Daily-leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/pratim994/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/pratim994/Daily-leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
