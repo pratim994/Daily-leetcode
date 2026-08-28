@@ -73,6 +73,7 @@
 | [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/pratim994/Daily-leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/pratim994/Daily-leetcode/tree/master/4056-longest-balanced-substring-ii) |
 | [4216-weighted-word-mapping](https://github.com/pratim994/Daily-leetcode/tree/master/4216-weighted-word-mapping) |
@@ -387,6 +388,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/pratim994/Daily-leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/pratim994/Daily-leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -458,6 +460,7 @@
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/pratim994/Daily-leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratim994/Daily-leetcode/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/pratim994/Daily-leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
