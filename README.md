@@ -48,6 +48,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/pratim994/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
+| [0977-distinct-subsequences-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -255,6 +256,7 @@
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/pratim994/Daily-leetcode/tree/master/0815-champagne-tower) |
+| [0977-distinct-subsequences-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1466-jump-game-v](https://github.com/pratim994/Daily-leetcode/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
