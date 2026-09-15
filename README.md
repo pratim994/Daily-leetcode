@@ -63,6 +63,7 @@
 | [2107-find-unique-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pratim994/Daily-leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/pratim994/Daily-leetcode/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pratim994/Daily-leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pratim994/Daily-leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pratim994/Daily-leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -264,6 +265,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2001-jump-game-vii](https://github.com/pratim994/Daily-leetcode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pratim994/Daily-leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pratim994/Daily-leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/pratim994/Daily-leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -458,6 +460,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pratim994/Daily-leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pratim994/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pratim994/Daily-leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2634-minimum-common-value](https://github.com/pratim994/Daily-leetcode/tree/master/2634-minimum-common-value) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pratim994/Daily-leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -535,6 +538,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/pratim994/Daily-leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2245-destroying-asteroids](https://github.com/pratim994/Daily-leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/pratim994/Daily-leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pratim994/Daily-leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2708-find-the-string-with-lcp](https://github.com/pratim994/Daily-leetcode/tree/master/2708-find-the-string-with-lcp) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pratim994/Daily-leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/pratim994/Daily-leetcode/tree/master/3635-smallest-divisible-digit-product-ii) |
