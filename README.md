@@ -47,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/pratim994/Daily-leetcode/tree/master/0389-find-the-difference) |
 | [0535-encode-and-decode-tinyurl](https://github.com/pratim994/Daily-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -255,6 +256,7 @@
 | [0322-coin-change](https://github.com/pratim994/Daily-leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/pratim994/Daily-leetcode/tree/master/0815-champagne-tower) |
 | [0977-distinct-subsequences-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0977-distinct-subsequences-ii) |
@@ -474,6 +476,7 @@
 | [0042-trapping-rain-water](https://github.com/pratim994/Daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/pratim994/Daily-leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -529,6 +532,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pratim994/Daily-leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/pratim994/Daily-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -741,4 +745,8 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/pratim994/Daily-leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/pratim994/Daily-leetcode/tree/master/1522-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
