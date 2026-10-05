@@ -49,6 +49,7 @@
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/pratim994/Daily-leetcode/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/pratim994/Daily-leetcode/tree/master/0886-score-of-parentheses) |
 | [0977-distinct-subsequences-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/pratim994/Daily-leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -477,6 +478,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pratim994/Daily-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/pratim994/Daily-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/pratim994/Daily-leetcode/tree/master/0886-score-of-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/pratim994/Daily-leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/pratim994/Daily-leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/pratim994/Daily-leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -749,4 +751,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pratim994/Daily-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/pratim994/Daily-leetcode/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
