@@ -417,6 +417,7 @@
 | [0007-reverse-integer](https://github.com/pratim994/Daily-leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/pratim994/Daily-leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/pratim994/Daily-leetcode/tree/master/0382-linked-list-random-node) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/pratim994/Daily-leetcode/tree/master/0507-perfect-number) |
@@ -446,6 +447,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/pratim994/Daily-leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/pratim994/Daily-leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratim994/Daily-leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -610,6 +612,7 @@
 | [0054-spiral-matrix](https://github.com/pratim994/Daily-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pratim994/Daily-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/pratim994/Daily-leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pratim994/Daily-leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/pratim994/Daily-leetcode/tree/master/0657-robot-return-to-origin) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pratim994/Daily-leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/pratim994/Daily-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
